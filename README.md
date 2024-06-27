@@ -38,17 +38,24 @@
 ## ```Bot Support Group Chats```
 
 - [`1st GC`](https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk)
-- [Channel](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
+- [`2nd GC`](https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV)
+- [`Channel`](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
 
 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Samue-l1/Classic-v3-BUG/fork)
+- FORK THE REPOSITORY [`Here`](https://github.com/Samue-l1/Classic-v3-BUG/fork)
 
 ## `Generate Pair Code For Session`
 
-[Classic Pairing](https://replit.com/@pesguru02/Classic-Pairing)
+[`Classic Pairing`](https://replit.com/@pesguru02/Classic-Pairing)
+
+[`HOW TO DEPLOY VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn)
+
+[`HOW TO AUTO DEPLOY DIRECT ON GITHUB`](https://youtu.be/-aOIDVebImo?si=TTl9GayCy3VD5z85)
+
+[`HOW TO RESTART WHEN THE BOT GOES OFF`](https://youtube.com/shorts/o0uLn17pRRs?si=i4VVlhSZLoFdk94u)
 
 # Instalasi
 ## Heroku Buildpack
